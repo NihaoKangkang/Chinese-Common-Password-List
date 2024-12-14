@@ -18,7 +18,7 @@ The data and generated files are for research and educational purposes only. Any
 
 ### Data Details
 
-​    •   Database download Magnet Link: ```magnet:?xt=urn:btih:066c588a6fe43ce29a07c96e4063357eb18433ab```
+​    •   Database Download Magnet Link: ```magnet:?xt=urn:btih:066c588a6fe43ce29a07c96e4063357eb18433ab```
 
 ​    •   Downloaded Database Size: `28.6 GB` (discrepancy with the `52 GB` size)
 
