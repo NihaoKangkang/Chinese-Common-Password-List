@@ -18,13 +18,13 @@ The data and generated files are for research and educational purposes only. Any
 
 #### Data Details ####
 
-​    •   Download Magnet Link: magnet:?xt=urn:btih:066c588a6fe43ce29a07c96e4063357eb18433ab
+​    •   Download Magnet Link: ···magnet:?xt=urn:btih:066c588a6fe43ce29a07c96e4063357eb18433ab···
 
-​    •   Downloaded Database Size: 28.6 GB (discrepancy with the rumored 52 GB size)
+​    •   Downloaded Database Size: ·28.6 GB· (discrepancy with the rumored ·52 GB· size)
 
-​    •   Unique Passwords (after cleaning): 82,115,928
+​    •   Unique Passwords (after cleaning): ·82,115,928·
 
-​    •   Total Passwords (including duplicates): 77,669,716
+​    •   Total Passwords (including duplicates): ·77,669,716·
 
 ---
 
