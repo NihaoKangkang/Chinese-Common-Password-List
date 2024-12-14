@@ -1,6 +1,6 @@
 # Chinese Common Password List
 
-
+Author: Kyi Wong
 
 ## Project Overview
 
@@ -27,14 +27,21 @@ The data and generated files are for research and educational purposes only. Any
 ​    •   Total Passwords (including duplicates): `77,669,716`
 
 ---
+### File Contents
 
+|File Name|Number Of Passwords|md5|Description|
+|:---|:---|:---|:---|
+|Chinese-common-password-list.txt|4,106,545|d96637c69a2b1ab7b0a6ae2d9ab8bd3b|Password that has been repeated more than or equal to 30 times|
+|Chinese-common-password-list-top-1000.txt|1,000|82060082ff793898ce7b67179e989981|The 1,000 most frequently used password|
+|Chinese-common-password-list-top-10000.txt|10,000|8a28e60a0482453e8fbe3c1d13371221|The 10,000 most frequently used password|
+|Chinese-common-password-list-top-100000.txt|100,000|dc0773deaf1a2e019945b91748c3b874|The 100,000 most frequently used password|
+|Chinese-common-password-list-top-1000000.txt|1,000,000|b2fb8bca3ed2c506f3dd9e4d8718caf9|The 1,000,000 most frequently used password|
+---
 ### How to Use 
 
-​    1.  Download and extract the dataset.
-
-​    2.  Analyze password patterns using text editors, scripts, or programming languages like Python or Bash.
-
-​    3.  Use these files for generating dictionaries or validating weak password scenarios in a safe environment.
+1. ```git clone https://github.com/NihaoKangkang/Chinese-Common-Password-List.git```
+2. ```cd Chinese-Common-Password-List```
+3. Enjoy!
 
 ----
 
