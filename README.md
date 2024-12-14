@@ -1,8 +1,8 @@
-## Chinese Common Password List
+# Chinese Common Password List
 
 
 
-### Project Overview
+## Project Overview
 
 
 
@@ -10,13 +10,13 @@ This project is based on the NetEase 2015 data breach database. It analyzes and 
 
 
 
-#### ⚠️ Usage Disclaimer: ####
+### ⚠️ Usage Disclaimer: 
 
 The data and generated files are for research and educational purposes only. Any illegal use of this data is strictly prohibited. Please ensure compliance with local laws and regulations.
 
 -----
 
-#### Data Details ####
+### Data Details
 
 ​    •   Download Magnet Link: ```magnet:?xt=urn:btih:066c588a6fe43ce29a07c96e4063357eb18433ab```
 
@@ -28,7 +28,7 @@ The data and generated files are for research and educational purposes only. Any
 
 ---
 
-#### How to Use ####
+### How to Use 
 
 ​    1.  Download and extract the dataset.
 
@@ -38,6 +38,6 @@ The data and generated files are for research and educational purposes only. Any
 
 ----
 
-#### License ####
+### License 
 
 This project is licensed under the [MIT license](https://github.com/danielmiessler/SecLists/blob/master/LICENSE).
