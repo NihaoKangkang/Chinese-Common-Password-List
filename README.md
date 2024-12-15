@@ -22,9 +22,9 @@ The data and generated files are for research and educational purposes only. Any
 
 ​    •   Downloaded Database Size: `28.6 GB` (discrepancy with the `52 GB` size)
 
-​    •   Unique Passwords (after cleaning): `82,115,928`
+​    •   Unique Passwords (after cleaning): `77,669,716`
 
-​    •   Total Passwords (including duplicates): `77,669,716`
+​    •   Total Passwords (including duplicates): `821,159,289`
 
 ---
 ### File Contents
